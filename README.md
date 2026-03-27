@@ -132,6 +132,8 @@ Current founder pilot defaults:
 - note: `AGG Brake + your email`
 - contact: `642635193@qq.com`
 
+- [微信收款码]https://raw.githubusercontent.com/tumingjiang7-gif/agg-brake-lite/main/IMG_4371.JPG
+
 Keep the first offer simple:
 
 - one-time founder pilot purchase
